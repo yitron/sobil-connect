@@ -1,0 +1,84 @@
+2023-07-13 14:07:19,013 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='test_sgd.pdf', type='application/pdf', size=84900)
+2023-07-13 14:07:19,013 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='test_sgd.pdf', type='application/pdf', size=84900)
+2023-07-13 14:07:27,379 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=2, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:07:27,379 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=2, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:07:27,379 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=2, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:07:27,379 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=2, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:08:23,347 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:08:23,347 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:15:50,506 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:15:50,506 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:15:50,506 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 14:18:54,791 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 14:18:54,791 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 14:19:56,802 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:19:56,802 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:19:56,802 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:19:56,802 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:20:56,686 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:58:05,630 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:58:05,630 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:59:08,314 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:59:08,314 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:59:08,314 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:59:54,094 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 14:59:54,094 - ERROR - Error occurred during PDF parsing: name 'json' is not defined
+2023-07-13 15:09:28,214 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 15:09:28,214 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 15:09:28,214 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 15:09:28,214 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 15:09:28,214 - ERROR - Error occurred during PDF parsing: cannot identify image file UploadedFile(id=1, name='bank_statement.pdf', type='application/pdf', size=32806)
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:14:37,489 - ERROR - Error occurred during PDF parsing: expected str, bytes or os.PathLike object, not UploadedFile
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:37,397 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:15:41,939 - ERROR - Error occurred during PDF parsing: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:16:44,746 - ERROR - Error occurred during PDF parsing: name 'PdfReader' is not defined
+2023-07-13 15:23:54,122 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:23:54,122 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:23:54,122 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:23:54,122 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:23:54,122 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte
+2023-07-13 15:28:05,173 - ERROR - Error occurred during PDF parsing: 'utf-8' codec can't decode byte 0xc4 in position 10: invalid continuation byte

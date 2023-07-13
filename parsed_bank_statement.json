@@ -1,0 +1,74 @@
+{
+    "overview": {
+        "bank_name": "DBS Bank Limited",
+        "account_name": "A Small Business Pte. Ltd.",
+        "account_number": "75834726",
+        "currency": "SGD",
+        "printed_by": "Tan Ah Kow",
+        "printed_on": "July 2023",
+        "opening_balance": 150000.0,
+        "available_balance": 120345.0
+    },
+    "transactions": [
+        {
+            "date": "2023-07-01",
+            "type": "credit",
+            "amount": 5000.0,
+            "description": "Sale of goods - Invoice #INV1234"
+        },
+        {
+            "date": "2023-07-02",
+            "type": "debit",
+            "amount": 1500.0,
+            "description": "O\ufb03ce supplies - Purchase from O\ufb03ceMart"
+        },
+        {
+            "date": "2023-07-05",
+            "type": "credit",
+            "amount": 2000.0,
+            "description": "Payment received - Customer payment for services"
+        },
+        {
+            "date": "2023-07-06",
+            "type": "debit",
+            "amount": 10000.0,
+            "description": "Raw material purchase - Supplier XYZ"
+        },
+        {
+            "date": "2023-07-07",
+            "type": "debit",
+            "amount": 800.0,
+            "description": "Equipment maintenance - Repair service for machinery"
+        },
+        {
+            "date": "2023-07-10",
+            "type": "debit",
+            "amount": 3000.0,
+            "description": "UQlity bill payment - Electricity bill for June"
+        },
+        {
+            "date": "2023-07-12",
+            "type": "debit",
+            "amount": 500.0,
+            "description": "Employee wages - July payroll for employees"
+        },
+        {
+            "date": "2023-07-13",
+            "type": "credit",
+            "amount": 10000.0,
+            "description": "Loan received - Business loan from Bank XYZ"
+        },
+        {
+            "date": "2023-07-14",
+            "type": "debit",
+            "amount": 2500.0,
+            "description": "AdverQsing expenses - Digital markeQng campaign"
+        },
+        {
+            "date": "2023-07-15",
+            "type": "debit",
+            "amount": 500.0,
+            "description": "Credit card payment - Payment for Card ending in 1234"
+        }
+    ]
+}
